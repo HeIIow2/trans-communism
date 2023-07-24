@@ -2,7 +2,7 @@
 
 The trans logo, merged with the communism logo.
 
-<img width=100% src="trans-communism.svg">
+<img width=100% src="trans-communism.svg" />
 
 
 ## IF YOU ARE THE ONE WITH THE FLAG
