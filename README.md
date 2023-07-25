@@ -9,7 +9,7 @@ The trans logo, merged with the communism logo.
 
 ![](/template/thing-im-going-for.png)
 
-Write me on matrix: https://matrix.to/#/@hellow_2:matrix.org
+Write me on matrix if you want to claim credits, or want to do anything else: https://matrix.to/#/@hellow_2:matrix.org
 
 ## Source
 
