@@ -1,0 +1,8 @@
+#!/bin/bash
+
+inkscape \
+    --export-background-opacity=0 \
+    --export-width=900 \
+    --export-type=png \
+    --export-filename="${1%.svg}.png" \
+    "$1"
